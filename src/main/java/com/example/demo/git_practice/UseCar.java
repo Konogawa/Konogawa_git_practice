@@ -8,7 +8,7 @@ public class UseCar {
 
 		cl.maker = "HONDA";
 		cl.displacement = 2000;
-		cl.color = "青";
+		cl.color = "緑";
 
 		cl.start();
 		cl.curve();
